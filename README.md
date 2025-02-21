@@ -1,4 +1,4 @@
-### Statistical Analysis for Energy Efficiency
+### Energy Efficiency Prediction & Statistical Analysis Using R
 
 This project performs **Exploratory Data Analysis (EDA)** and develops regression models to predict **heating** and **cooling loads** in buildings based on their features. Using **R**, the project explores data cleaning, visualization, and machine learning techniques to identify factors influencing energy efficiency.
 
